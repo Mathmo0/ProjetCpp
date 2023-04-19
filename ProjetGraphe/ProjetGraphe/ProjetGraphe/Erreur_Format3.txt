@@ -1,0 +1,11 @@
+NBSommets=3
+NBArcs=3
+Sommets=[
+Numero=1
+Numero=2
+Numero=3
+]
+Arcs=[
+debut   =   1, fin   =   2
+Debut=1, Fin=3
+

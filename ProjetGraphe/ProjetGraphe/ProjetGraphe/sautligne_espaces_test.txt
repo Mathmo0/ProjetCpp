@@ -1,0 +1,30 @@
+NBSommets = !.;/.;?$!3/.;?$!
+
+
+NBArcs  =/.;?$!3
+
+
+Sommets= [  
+
+Numero= 1!.;/.;?$!
+
+
+Numero=!.;/./.;?$!2 
+
+
+Numero=3!.;/.;?$! 
+
+]
+
+
+Arcs  =[
+
+DebUt = /.;?$!3  , FiN  = //.;?$!2
+
+
+Debut = 3, Fin = 1
+
+Debut  = 2, Fin= 1  
+
+
+]
